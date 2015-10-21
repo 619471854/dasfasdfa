@@ -15,6 +15,9 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Gson a;
+
+        int b=0;
+        int c=b;
     }
 
     @Override
